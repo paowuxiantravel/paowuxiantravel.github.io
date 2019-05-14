@@ -5,7 +5,7 @@ date:   2019-04-18 08:43:59
 author: Lin
 categories: Jekyll
 tags:	jekyll welcome
-cover:  "/assets/falcon9_large.jpg"
+cover:  "/assets/snowmountain.jpg"
 ---
 
 I SHALL foot it
