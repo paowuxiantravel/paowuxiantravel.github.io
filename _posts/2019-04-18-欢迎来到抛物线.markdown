@@ -8,7 +8,7 @@ tags:	jekyll welcome
 cover:  "/assets/snowmountain.jpg"
 ---
 
-I SHALL foot it
+I SHALL foot it.
 Down the roadway in the dusk,
 Where shapes of hunger wander
 And the fugitives of pain go by.
