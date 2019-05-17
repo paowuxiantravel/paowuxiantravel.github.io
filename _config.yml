@@ -21,7 +21,7 @@ description: >
 baseurl: "/paowuxiantravel.github.io" # the subpath of your site, e.g. /blog/
 url: "http://paowuxiantravel.github.io" # the base hostname & protocol for your site
 cover: "/assets/falcon9_large.jpg"
-logo: "/assets/logo.jpg"
+logo: "/assets/logo_big.jpg"
 
 # Build settings
 markdown: kramdown
