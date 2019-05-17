@@ -3,8 +3,8 @@ layout: post
 title:  "旅行定制怎么玩"
 date:   2019-04-18 08:43:59
 author: Lin
-categories: Dummy
-tags: lorem ipsum
+categories: Destination
+tags: Destination
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

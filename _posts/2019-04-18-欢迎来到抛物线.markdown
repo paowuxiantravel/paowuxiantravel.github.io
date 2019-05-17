@@ -3,8 +3,8 @@ layout: post
 title:  "欢迎来到抛物线"
 date:   2019-04-18 08:43:59
 author: Lin
-categories: Jekyll
-tags:	jekyll welcome
+categories: Blackboard
+tags:	Blackboard welcome
 cover:  "/assets/snowmountain.jpg"
 ---
 
