@@ -3,8 +3,8 @@ layout: post
 title:  "你好，抛物线"
 date:   2019-04-18 08:43:59
 author: pwx
-categories: Blackboard
-tags:	Blackboard welcome
+categories: Jekyll
+tags: welcome
 cover:  "/assets/snowmountain.jpg"
 ---
 
@@ -21,6 +21,7 @@ cover:  "/assets/snowmountain.jpg"
 
 
 很多时候一个人的想法就只是想想，但一群人的想法就真的可能成为现实。
+
 
 
 <font size="5"> 于娇娇 </font>

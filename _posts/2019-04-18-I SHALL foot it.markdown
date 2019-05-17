@@ -3,7 +3,7 @@ layout: post
 title:  "I SHALL foot it"
 date:   2019-04-18 08:43:59
 author: Lin
-categories: Destination
+categories: Dummy
 tags: Destination
 ---
 
