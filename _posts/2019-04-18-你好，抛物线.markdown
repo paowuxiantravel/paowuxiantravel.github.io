@@ -20,8 +20,6 @@ cover:  "/assets/snowmountain.jpg"
 
 
 
-<font size="6"> 关于我们 </font>
-
 很多时候一个人的想法就只是想想，但一群人的想法就真的可能成为现实。
 
 
@@ -120,3 +118,5 @@ cover:  "/assets/snowmountain.jpg"
 还有其他需求？来，和抛物线旅行一起聊聊。
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/logo2.jpg)
+
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/qr.jpg)
