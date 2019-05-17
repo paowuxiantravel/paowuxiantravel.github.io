@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "你好，抛物线"
+title:  "Hello"
 date:   2019-04-18 08:43:59
 author: pwx
 categories: Jekyll
