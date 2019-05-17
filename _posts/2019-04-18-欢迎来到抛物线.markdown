@@ -8,6 +8,7 @@ tags:	Blackboard welcome
 cover:  "/assets/snowmountain.jpg"
 ---
 
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&id=490602642&auto=1&height=66"></iframe>
 
 故事的最初，是一群因为旅行而结识的朋友，天南海北，大家分享自己的旅行体验；后来，他们想把这份对旅行的热爱和执着分享出来，让更多的人可以了解旅行，体验不同的旅行方式，接触不同的旅行项目。抛物线旅行由此而生，定制一份属于自己的旅行，走遍这世界上的每一个角落。
@@ -18,10 +19,10 @@ cover:  "/assets/snowmountain.jpg"
 ***
 
 
+
 <font size="6"> 关于我们 </font>
 
- 
-  >很多时候一个人的想法就只是想想，但一群人的想法就真的可能成为现实。
+很多时候一个人的想法就只是想想，但一群人的想法就真的可能成为现实。
 
 
 <font size="5"> 于娇娇 </font>
