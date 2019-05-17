@@ -8,7 +8,7 @@ tags:	Blackboard welcome
 cover:  "/assets/snowmountain.jpg"
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&id=18383573&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&id=490602642&auto=1&height=66"></iframe>
 
 故事的最初，是一群因为旅行而结识的朋友，天南海北，大家分享自己的旅行体验；后来，他们想把这份对旅行的热爱和执着分享出来，让更多的人可以了解旅行，体验不同的旅行方式，接触不同的旅行项目。抛物线旅行由此而生，定制一份属于自己的旅行，走遍这世界上的每一个角落。
  
@@ -18,31 +18,31 @@ cover:  "/assets/snowmountain.jpg"
 ***
 
 
-<font size="4"> 关于我们 </font>
+<font size="7"> 关于我们 </font>
 
  
   >很多时候一个人的想法就只是想想，但一群人的想法就真的可能成为现实。
 
 
-####于娇娇
+<font size="6"> 于娇娇 </font>
 
-![pwx](../assets/pwx/yu2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/yu2.jpg))
 
 90初，喜欢旅行，喜欢天马行空，喜欢碎碎念。
 
-![pwx](./assets/pwx/yu1.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/yu1.jpg))
 
 在一个大多数人都努力工作，成家生子的年龄选择了去澳洲流浪一年，体验不同的生活方式，遇见不同的风景和人，深入旅行澳洲，新西兰，俄罗斯，格鲁吉亚等地。浪过大半个中国，最爱藏区和雪山。好奇所有的未知，期待所有的相遇。
 
 ***
 
-####Shane
+<font size="6"> Shane </font>
 
-![pwx](./assets/pwx/s2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/s2.jpg))
 
 一个喜欢旅行的宅男，拿起手机时可以深闺不出，大门不迈；拎起背包时也能够迈开脚步，穿行山野。
 
-![pwx](./assets/pwx/s1.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/s1.jpg))
 
 喜欢在喧嚣的城市街角看人来人往，在雨幕的古迹中轻触历史，在广阔的高原山地上与单车共舞，在人迹罕至的崇山峻岭间漫步。
 
@@ -50,13 +50,13 @@ cover:  "/assets/snowmountain.jpg"
 
 ***
 
-####阿呆刘
+<font size="6"> 阿呆刘 </font>
 
-![pwx](./assets/pwx/a2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/a2.jpg))
 
 90后一枚，爱好画画，喜欢旅行，梦想是希望能一直做自己想做的事情。去过几十个国家，很多国家几乎都是呆到签证期满才舍得离开，许多国家，也一定会重返。
 
-![pwx](./assets/pwx/a1.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/a1.jpg))
 
 徒步印尼林贾尼火山、徒步尼泊尔ABC与布恩山，印度洒红节、老挝公益、约旦死海漂浮、各国深潜、也曾乘坐最美热气球，带着2岁的娃游走高加索三国与卡拉巴赫，一起庆生，各国骑摩飙车等等。
 
@@ -64,13 +64,13 @@ cover:  "/assets/snowmountain.jpg"
 
 ***
 
-####Lin
+<font size="6"> Lin </font>
 
-![pwx](./assets/pwx/l2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/l2.jpg)
 
 平和的心境是我的追求，对未知的好奇是我的动力。
 
-![pwx](./assets/pwx/l2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/l1.jpg)
 
 参加一场当地婚礼，在陌生国度的雪山徒步，经历大难不死的一场地震，在异国他乡摔车受伤，旅途中的美好带来了无尽的感动，而旅途中的意外也推动着你去思考人生终极问题，我们应该如何与世界相处？
 
@@ -78,13 +78,13 @@ cover:  "/assets/snowmountain.jpg"
 
 ***
 
-####Monica
+<font size="6"> Monica </font>
 
-![pwx](./assets/pwx/m2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/m2.jpg)
 
 莫妮卡，95后，是拥有一颗自由之心的金牛座姑娘，高中毕业开始独立旅行，大学四年的寒暑假足迹踏遍含西藏新疆等中国全部省市。大学毕业后选择gap year。
 
-![pwx](./assets/pwx/m1.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/m1.jpg)
 
 在这一年里，我在泰国学习泰拳，在马来西亚学潜水，在印尼学做菜，在尼泊尔做采访玩滑翔伞。我喜欢这个未知的世界带给我一次次的肾上腺素飙升感，喜挑战爱冒险。
 
@@ -95,7 +95,7 @@ cover:  "/assets/snowmountain.jpg"
 ***
 
 
-###关于旅行
+<font size="7"> 关于旅行 </font>
 
 旅行，不应该是盲目追赶、走马观花；更不应是劳心费力，满身疲惫。旅行这般美好的事情，当然要有一份独特的体验。
  
@@ -109,7 +109,7 @@ cover:  "/assets/snowmountain.jpg"
 ***
 
 
-###我们可以做什么
+<font size="7">我们可以做什么 </font>
 
 为您提供国内外自由、高性价比、好玩的行程；
 私人订制，个人旅行，团体旅行，一条龙服务；
@@ -118,4 +118,4 @@ cover:  "/assets/snowmountain.jpg"
 学习潜水？瑜伽？泰拳体验？国外游学？为你实现所有想法；
 还有其他需求？来，和抛物线旅行一起聊聊。
 
-![pwx](./assets/logo2.jpg)
+![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/logo2.jpg)
