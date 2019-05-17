@@ -14,14 +14,14 @@ subtitle: "Life will eventually have a touch the soul of travel"
 email: pwx@pwxtrip.com
 name: pwx
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+# A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/paowuxiantravel.github.io" # the subpath of your site, e.g. /blog/
 url: "http://paowuxiantravel.github.io" # the base hostname & protocol for your site
 cover: "/assets/falcon9_large.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -88,12 +88,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/logo.jpg"
     fb_image_width: 612
     fb_image_height: 605
-    fb_image_type: "image/png"
+    fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/logo.jpg"
 
     os_repo: "https://github.com/paowuxiantravel.github.io/paowuxiantravel.github.io"
     os_rcs_type: "git"
