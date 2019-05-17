@@ -8,6 +8,8 @@ tags:	Blackboard welcome
 cover:  "/assets/snowmountain.jpg"
 ---
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&id=18383573&auto=1&height=66"></iframe>
+
 I SHALL foot it.
 Down the roadway in the dusk,
 Where shapes of hunger wander
