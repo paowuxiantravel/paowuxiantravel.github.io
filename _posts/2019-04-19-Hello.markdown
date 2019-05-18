@@ -4,7 +4,9 @@ title:  "你好，抛物线"
 date:   2019-04-19 08:43:59
 author: pwx
 categories: Jekyll
+cover:"/assets/snowmountain.jpg"
 ---
+
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&id=490602642&auto=1&height=66"></iframe>
 
@@ -118,3 +120,7 @@ categories: Jekyll
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/logo2.jpg)
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/qr.jpg)
+
+<span id="busuanzi_container_page_pv">
+  本文阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
