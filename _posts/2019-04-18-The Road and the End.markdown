@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "I SHALL foot it"
+title:  "The Road and the End"
 date:   2019-04-18 08:43:59
-author: Lin
+author: CARL SANDBURG
 categories: Dummy
 tags: lorem ipsum
 ---
