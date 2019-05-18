@@ -25,7 +25,7 @@ logo: "/assets/logo_big.jpg"
 
 # Build settings
 markdown: kramdown
-paginate: 1
+paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
@@ -95,6 +95,6 @@ protocols:
 
     twitter_image: "/assets/logo.jpg"
 
-    os_repo: "https://github.com/paowuxiantravel/paowuxiantravel.github.io"
+    os_repo: "https://github.com/paowuxiantravel.github.io/paowuxiantravel.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:paowuxiantravel/paowuxiantravel.github.io"
+    os_src: "git@github.com:paowuxiantravel.github.io/paowuxiantravel.github.io.git"
