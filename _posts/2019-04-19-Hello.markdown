@@ -4,7 +4,8 @@ title:  "你好，抛物线"
 date:   2019-04-19 08:43:59
 author: pwx
 categories: Jekyll
-cover:"/assets/snowmountain.jpg"
+tags:	jekyll welcome
+cover: "/assets/snowmountain.jpg"
 ---
 
 
