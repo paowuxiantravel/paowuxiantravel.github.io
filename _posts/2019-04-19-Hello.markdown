@@ -24,7 +24,7 @@ cover: "/assets/snowmountain.jpg"
 
 
 
-<font size="5"> 于娇娇 </font>
+### 于娇娇 
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/yu2.jpg)
 
@@ -36,7 +36,7 @@ cover: "/assets/snowmountain.jpg"
 
 ***
 
-<font size="5"> Shane </font>
+### Shane
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/s2.jpg)
 
@@ -50,7 +50,7 @@ cover: "/assets/snowmountain.jpg"
 
 ***
 
-<font size="5"> 阿呆刘 </font>
+### 阿呆刘 
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/a2.jpg)
 
@@ -64,7 +64,7 @@ cover: "/assets/snowmountain.jpg"
 
 ***
 
-<font size="5"> Lin </font>
+### Lin 
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/l2.jpg)
 
@@ -78,7 +78,7 @@ cover: "/assets/snowmountain.jpg"
 
 ***
 
-<font size="5"> Monica </font>
+### Monica 
 
 ![pwx](https://raw.githubusercontent.com/paowuxiantravel/paowuxiantravel.github.io/master/assets/pwx/m2.jpg)
 
@@ -95,7 +95,7 @@ cover: "/assets/snowmountain.jpg"
 ***
 
 
-<font size="6"> 关于旅行 </font>
+### 关于旅行 
 
 旅行，不应该是盲目追赶、走马观花；更不应是劳心费力，满身疲惫。旅行这般美好的事情，当然要有一份独特的体验。
  
@@ -109,7 +109,7 @@ cover: "/assets/snowmountain.jpg"
 ***
 
 
-<font size="6">我们可以做什么 </font>
+### 我们可以做什么
 
 为您提供国内外自由、高性价比、好玩的行程；
 私人订制，个人旅行，团体旅行，一条龙服务；
