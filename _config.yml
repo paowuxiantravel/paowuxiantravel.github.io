@@ -25,7 +25,7 @@ logo: "/assets/logo_big.jpg"
 
 # Build settings
 markdown: kramdown
-paginate: 1
+paginate: 0
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
@@ -48,10 +48,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
+  - cat: blackboard
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
+  - cat: destination
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
