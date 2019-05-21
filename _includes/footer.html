@@ -21,13 +21,17 @@
       <p><strong>Contact</strong></p>
       <ul class="social-media-list">
         <li>
-          <a href="mailto:{{ site.email }}">
+          Email:<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <!-- <a href="mailto:{{ site.email }}">
             <i class="fa fa-envelope-o"></i>
             <span class="username">{{ site.email }}</span>
-          </a>
+          </a> -->
+        </li>
+        <li>
+          Wechat:Pwx591425983
         </li>
 
-        {% for social in site.social %}
+        <!-- {% for social in site.social %}
           {% if social.url != null %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
@@ -36,7 +40,7 @@
             </a>
           </li>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
 
       </ul>
     </div>
